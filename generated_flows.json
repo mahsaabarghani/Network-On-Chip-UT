@@ -1,0 +1,52 @@
+{
+    "width": 4,
+    "height": 4,
+    "num_slots": 8,
+    "num_tables": 2,
+    "table_lifetime": 50,
+    "root_node": [
+        0,
+        0
+    ],
+    "max_flows": 10,
+    "max_delay": 1000,
+    "hotspot_threshold": 10,
+    "flows": [
+        {
+            "src": [
+                2,
+                0
+            ],
+            "dst": [
+                1,
+                1
+            ],
+            "slots": 5,
+            "delay": 237
+        },
+        {
+            "src": [
+                3,
+                3
+            ],
+            "dst": [
+                3,
+                1
+            ],
+            "slots": 6,
+            "delay": 430
+        },
+        {
+            "src": [
+                3,
+                0
+            ],
+            "dst": [
+                2,
+                3
+            ],
+            "slots": 8,
+            "delay": 954
+        }
+    ]
+}
