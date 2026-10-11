@@ -222,7 +222,7 @@ Because the allocator uses Python's `random.sample()` without a fixed seed, the 
 ├── generated_flows.json        # Example/generated input configuration
 ├── allocation_results.json     # Example/latest allocation result
 ├── output_log.txt              # Example/latest detailed execution log
-└── 810103053.pdf               # Assignment material
+└── ca1.pdf               # Assignment material
 ```
 
 ## Reference
